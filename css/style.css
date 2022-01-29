@@ -124,9 +124,10 @@ h3{
 .section__subtitle--intro,
 .section__subtitle--about{
     background: var(--clr-accent);
-    padding: .25em 1em;
+    padding: .25em 2.75em;
     font-family: var(--ff-secondary);
     margin-bottom: 1em;
+    font-size: 30px;
 }
 
 .section__subtitle--work{
@@ -250,7 +251,7 @@ header {
     box-shadow: var(--bs);
 }
 
-.section__subtitle-intro{
+.section__subtitle--intro{
     display: inline-block;
 }
 
